@@ -1,0 +1,6 @@
+{
+    "inZone": "You are in Red Zone!",
+    "entered": "You have entered an Red Zone, be careful!",
+    "left": "You have left the Red Zone, you should be safe now!",
+    "otherPlayer": "Enemy Player"
+}
